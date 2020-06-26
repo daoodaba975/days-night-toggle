@@ -1,6 +1,6 @@
 body {
     --accent-color: orangered;
-    --background-color: white;
+    --background-color: #f7f7f2;
     --text-color: black;
     --button-text-color: var(--background-color);
     --transition-delay: 1s;
@@ -20,7 +20,7 @@ body {
   
   body.dark {
     --accent-color: #D0D066;
-    --background-color: #333;
+    --background-color: #2e4057;
     --text-color: white;
   }
   
